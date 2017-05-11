@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu May 04 15:51:43 PDT 2017
+2.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+5.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/drawable/ioio_down.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+6.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+7.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/xml/device_filter.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+8.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+4.set=JAVA_RESOURCE
+6.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+1.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+2.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+8.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_/res/xml/accessory_filter.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+9.base=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/res/resources-debug.ap_
+4.file=/Users/fernando/Documents/Psych169-GitHub/IOIOSimpleApp/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/version.properties
+8.set=DEX
+0.set=ANDROID_RESOURCE
