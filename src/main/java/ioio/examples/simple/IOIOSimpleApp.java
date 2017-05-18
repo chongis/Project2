@@ -76,7 +76,7 @@ public class IOIOSimpleApp extends IOIOActivity {
 			}
 
 			seekBar_.setProgress(new_value-1000);
-			
+
 			//int new_value = (int) (value * 1000) + 1000;
 			//pwmOutput_.setPulseWidth(500 + seekBar_.getProgress() * 2);
 
